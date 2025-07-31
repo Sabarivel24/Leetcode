@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
