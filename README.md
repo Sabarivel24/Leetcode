@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sabarivel24/Leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Sabarivel24/Leetcode/tree/master/0575-distribute-candies) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Sabarivel24/Leetcode/tree/master/0575-distribute-candies) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
