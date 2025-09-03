@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Sabarivel24/Leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Sabarivel24/Leetcode/tree/master/0575-distribute-candies) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
