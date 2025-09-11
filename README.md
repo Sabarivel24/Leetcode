@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
