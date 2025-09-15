@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sabarivel24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Sabarivel24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
