@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
