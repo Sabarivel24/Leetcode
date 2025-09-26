@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0279-perfect-squares](https://github.com/Sabarivel24/Leetcode/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Sabarivel24/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Sabarivel24/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Sabarivel24/Leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Sabarivel24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sabarivel24/Leetcode/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sabarivel24/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
