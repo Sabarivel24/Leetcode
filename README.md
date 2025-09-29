@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sabarivel24/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
 ## String
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sabarivel24/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
