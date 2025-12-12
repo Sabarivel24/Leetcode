@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
+| [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Sabarivel24/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Merge Sort
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sabarivel24/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
+| [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Sabarivel24/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sabarivel24/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Sabarivel24/Leetcode/tree/master/3583-count-special-triplets) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/Sabarivel24/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sabarivel24/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Bit Manipulation
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
+| [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## String
 |  |
 | ------- |
