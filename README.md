@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/Sabarivel24/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sabarivel24/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Bit Manipulation
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/Sabarivel24/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
