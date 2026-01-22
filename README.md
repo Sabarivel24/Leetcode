@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sabarivel24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/Sabarivel24/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sabarivel24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Sabarivel24/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sabarivel24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Sabarivel24/Leetcode/tree/master/0055-jump-game) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
