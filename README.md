@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sabarivel24/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Sabarivel24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sabarivel24/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/Sabarivel24/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Sabarivel24/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Sabarivel24/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sabarivel24/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3668-restore-finishing-order](https://github.com/Sabarivel24/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
