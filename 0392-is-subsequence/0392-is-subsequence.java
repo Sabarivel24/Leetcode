@@ -1,6 +1,39 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int n=t.length();
+        int n=s.length();
+        int st=0;
+        int en=0;
+        while(st<s.length() && en<t.length()){
+            if(s.charAt(st)==t.charAt(en)){
+                st++;
+            }
+            en++;
+        }
+        
+        return st==n;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       /* int n=t.length();
         int[][] np=new int[n+1][26];
         for(int i=0;i<=n;i++){
             for(int c=0;c<26;c++){
@@ -23,6 +56,6 @@ class Solution {
             if(pos==-1)return false;
             pos++;
         }
-        return true;
+        return true;*/
     }
 }
