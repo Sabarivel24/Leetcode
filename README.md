@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sabarivel24/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-square-sum-triples](https://github.com/Sabarivel24/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sabarivel24/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
