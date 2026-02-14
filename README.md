@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sabarivel24/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sabarivel24/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sabarivel24/Leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Sabarivel24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Sabarivel24/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
@@ -181,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sabarivel24/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Sabarivel24/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0575-distribute-candies](https://github.com/Sabarivel24/Leetcode/tree/master/0575-distribute-candies) |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sabarivel24/Leetcode/tree/master/0367-valid-perfect-square) |
