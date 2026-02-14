@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sabarivel24/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sabarivel24/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Sabarivel24/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sabarivel24/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Simulation
 |  |
 | ------- |
