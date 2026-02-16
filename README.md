@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Sabarivel24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sabarivel24/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Sabarivel24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sabarivel24/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sabarivel24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
