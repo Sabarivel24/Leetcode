@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sabarivel24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sabarivel24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sabarivel24/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sabarivel24/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sabarivel24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sabarivel24/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sabarivel24/Leetcode/tree/master/0062-unique-paths) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sabarivel24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sabarivel24/Leetcode/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sabarivel24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
