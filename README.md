@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sabarivel24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sabarivel24/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sabarivel24/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sabarivel24/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sabarivel24/Leetcode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sabarivel24/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Sabarivel24/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Sabarivel24/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sabarivel24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sabarivel24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sabarivel24/Leetcode/tree/master/0043-multiply-strings) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sabarivel24/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 ## Monotonic Queue
 |  |
 | ------- |
