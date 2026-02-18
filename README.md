@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sabarivel24/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sabarivel24/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Sabarivel24/Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Sabarivel24/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Sabarivel24/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0070-climbing-stairs) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sabarivel24/Leetcode/tree/master/0043-multiply-strings) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sabarivel24/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sabarivel24/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sabarivel24/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Sabarivel24/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
