@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sabarivel24/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sabarivel24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sabarivel24/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sabarivel24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sabarivel24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sabarivel24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sabarivel24/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sabarivel24/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sabarivel24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sabarivel24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sabarivel24/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
 | ------- |
