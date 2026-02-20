@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Sabarivel24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sabarivel24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sabarivel24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sabarivel24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sabarivel24/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sabarivel24/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/Sabarivel24/Leetcode/tree/master/0468-validate-ip-address) |
 | [0856-score-of-parentheses](https://github.com/Sabarivel24/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sabarivel24/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
