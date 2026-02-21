@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sabarivel24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sabarivel24/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Sabarivel24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Sabarivel24/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sabarivel24/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Sabarivel24/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sabarivel24/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sabarivel24/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Sabarivel24/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Simulation
 |  |
 | ------- |
