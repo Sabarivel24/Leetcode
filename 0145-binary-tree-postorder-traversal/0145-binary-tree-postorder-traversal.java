@@ -14,17 +14,16 @@
  * }
  */
 class Solution {
-    public List<Integer> postorderTraversal(TreeNode root) {
-        return postorder(root,new ArrayList<>());
+     List<Integer>res;
+    public void func(TreeNode root){
+        if(root==null)return;
+        func(root.left);
+        func(root.right);
+        res.add(root.val);
     }
-    public List<Integer> postorder(TreeNode root, List<Integer>ans){
-        if(root==null){
-            return ans;
-        }
-        postorder(root.left,ans);
-        postorder(root.right,ans);
-        ans.add(root.val);
-        return ans;
-    
+    public List<Integer> postorderTraversal(TreeNode root) {
+        res=new ArrayList<>();
+        func(root);
+        return res;
     }
 }
