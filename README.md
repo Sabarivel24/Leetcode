@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Sabarivel24/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2739-total-distance-traveled](https://github.com/Sabarivel24/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Sabarivel24/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sabarivel24/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sabarivel24/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sabarivel24/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2739-total-distance-traveled](https://github.com/Sabarivel24/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/Sabarivel24/Leetcode/tree/master/3226-minimum-number-game) |
 | [3379-transformed-array](https://github.com/Sabarivel24/Leetcode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Sabarivel24/Leetcode/tree/master/3433-count-mentions-per-user) |
