@@ -14,16 +14,16 @@
  * }
  */
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        return inorder(root,new ArrayList<>());
-    }
-    public List<Integer> inorder(TreeNode root, List<Integer> ans){
-        if(root==null){
-            return ans;
-        }
-        inorder(root.left,ans);
+    List<Integer>ans;
+    public void func(TreeNode root){
+        if(root==null)return;
+        func(root.left);
         ans.add(root.val);
-        inorder(root.right,ans);
+        func(root.right);
+    }
+    public List<Integer> inorderTraversal(TreeNode root) {
+        ans=new ArrayList<>();
+        func(root);
         return ans;
     }
 }
