@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sabarivel24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sabarivel24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sabarivel24/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sabarivel24/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sabarivel24/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sabarivel24/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sabarivel24/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sabarivel24/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sabarivel24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sabarivel24/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sabarivel24/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
