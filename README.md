@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Sabarivel24/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Sabarivel24/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sabarivel24/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Sabarivel24/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sabarivel24/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Sabarivel24/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sabarivel24/Leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Sabarivel24/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Sabarivel24/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sabarivel24/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
