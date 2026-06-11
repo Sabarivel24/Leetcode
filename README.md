@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Sabarivel24/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sabarivel24/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1813-maximum-erasure-value](https://github.com/Sabarivel24/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sabarivel24/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sabarivel24/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sabarivel24/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Sabarivel24/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Sabarivel24/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sabarivel24/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sabarivel24/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sabarivel24/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
@@ -564,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sabarivel24/Leetcode/tree/master/0042-trapping-rain-water) |
+## Graph Theory
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Sabarivel24/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
