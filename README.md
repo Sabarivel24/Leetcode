@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sabarivel24/Leetcode/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sabarivel24/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Sabarivel24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sabarivel24/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sabarivel24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Sabarivel24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sabarivel24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/Sabarivel24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sabarivel24/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sabarivel24/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Sabarivel24/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/Sabarivel24/Leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/Sabarivel24/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Sabarivel24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Sabarivel24/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sabarivel24/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-sort-array-by-parity](https://github.com/Sabarivel24/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sabarivel24/Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Sabarivel24/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sabarivel24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/Sabarivel24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sabarivel24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sabarivel24/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
