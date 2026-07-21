@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sabarivel24/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Sabarivel24/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sabarivel24/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Sabarivel24/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sabarivel24/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sabarivel24/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Sabarivel24/Leetcode/tree/master/1446-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sabarivel24/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Sabarivel24/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabarivel24/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sabarivel24/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/Sabarivel24/Leetcode/tree/master/3606-coupon-code-validator) |
